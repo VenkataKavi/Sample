@@ -1,0 +1,48 @@
+Sample ID | Plant | QTY | GRN| Assigned Date/Time | Assigned Quality User |Target Date | No.of Days Left | Status 
+011 | RAD | 20 | GRN00981/03 | 12-Nov-21 15:25:34 | QE-1 |17-Nov-21 | 5 | Test Completed
+012 | RAD | 20 | GRN00101/02 | 12-Nov-21 16:25:34 | QE-2 |17-Nov-21 | 5 | Sample Collected
+013 | RAD | 20 | GRN00961/06 | 12-Nov-21 17:25:34 | QE-1 |19-Nov-21 | 7 | Test In-Progress
+014 | RAD | 20 | GRN00961/06 | 12-Nov-21 18:25:34 | QE-3 |19-Nov-21 | 7 | Samples to be Collected
+
+#Status
+Samples to be Collected
+Sample Collected
+Test In-Progress
+Test Completed
+All
+
+#Quality Test Results
+Release
+Special Release
+Rework
+Scrap
+All
+
+#QualityUsers
+QE-1
+QE-2
+QE-3
+QE-4
+QE-5
+All
+
+Item Code :
+Item Name :
+Received QTY : 
+Vendor : 
+Invoice Date :	
+
+
+#RawMaterailIDs
+001
+002
+003
+004
+005
+
+
+Sample ID | Plant | Test Status| Remarks 
+011 | RAD | Release| 
+012 | RAD | Release | 
+013 | RAD | Release | 
+014 | RAD | Rework | 
